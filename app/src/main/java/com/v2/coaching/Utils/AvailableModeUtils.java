@@ -29,9 +29,9 @@ public class AvailableModeUtils {
 
     public static HashMap<String, Integer> getJiuJitsuKnocks() {
         HashMap<String, Integer> knocks = new HashMap<>();
-        knocks.put("Projeção/Queda", 2);
+        knocks.put("Queda", 2);
         knocks.put("Passagem de guarda", 2);
-        knocks.put("Pegada pelas costas", 2);
+        knocks.put("Pegada costas", 2);
         knocks.put("Joelho na barriga", 2);
         knocks.put("Montada", 2);
         knocks.put("Raspagem", 2);

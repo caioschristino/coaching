@@ -45,6 +45,10 @@ public class Knock {
         this.fight = fight;
     }
 
+    public String getName() {
+        return name;
+    }
+
     public int getId() {
         return id;
     }

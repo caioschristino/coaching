@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_one"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -14,7 +14,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_two"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -24,7 +24,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_three"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -34,7 +34,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_four"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -44,7 +44,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_five"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -54,7 +54,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_six"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -64,7 +64,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_seven"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -74,7 +74,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_eight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -84,7 +84,7 @@
         android:padding="8dp"
         android:visibility="gone" />
 
-    <android.support.design.widget.FloatingActionButton
+    <com.v2.coaching.Ui.Component.KnockButton
         android:id="@+id/btn_main"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
